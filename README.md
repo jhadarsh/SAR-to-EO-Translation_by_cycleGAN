@@ -100,6 +100,15 @@ plot_training_metrics(metrics)
 - Multi-temporal analysis
 - Real-time inference optimization
 
+
+## 5 SAR → EO sample results
+<img width="1866" height="667" alt="Screenshot 2025-07-24 221238" src="https://github.com/user-attachments/assets/aa4b0314-2a61-41c7-b8b2-5f7907c94f82" />
+<img width="1864" height="657" alt="Screenshot 2025-07-24 221255" src="https://github.com/user-attachments/assets/1d049bcd-b17b-4e0d-8a52-3f4c17cb449b" />
+<img width="1843" height="670" alt="Screenshot 2025-07-24 221312" src="https://github.com/user-attachments/assets/b0243a11-78a9-43ad-8b88-614da5e5b0a9" />
+
+
+
+
 ## Citation
 
 ```bibtex
